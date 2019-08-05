@@ -1,0 +1,28 @@
+{
+  "name": "ig-greeter",
+  "version": "0.0.1",
+  "description": "Tool to start conversations on instagram with people that posted under specified hashtags",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.3",
+    "inquirer": "^6.5.0",
+    "pouchdb": "^7.1.1",
+    "puppeteer": "^1.19.0",
+    "shelljs": "^0.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rovaron/ig-greeter.git"
+  },
+  "author": "Rovaron",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Rovaron/ig-greeter/issues"
+  },
+  "homepage": "https://github.com/Rovaron/ig-greeter#readme"
+}
